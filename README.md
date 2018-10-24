@@ -1,4 +1,4 @@
-# Android Level 2 Lesson 5 - Design
+# Android Level 2 Lesson 5 - Design, transitions and animations
 
 ##### AndroidStudio 3.2+
 
@@ -16,4 +16,4 @@
   
 ### Later:
   * Программное создание анимации
-  * 
+  * Custom fonts
