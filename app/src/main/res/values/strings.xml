@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">DesignLesson</string>
+    <string name="settings" translatable="false">Settings</string>
+    <string name="help" translatable="false">Help</string>
+</resources>
